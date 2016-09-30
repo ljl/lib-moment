@@ -1,5 +1,7 @@
 # lib-moment
 
+A Enonic XP wrapper for [Moment JS](http://momentjs.com/)
+
 ## Usage
 
 ### Gradle build script
